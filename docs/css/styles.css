@@ -10849,7 +10849,7 @@ html {
 
 .hero-section {
     position: relative;
-    background-image: url('/img/landing1.jpg'); /* Replace with your image URL */
+    background-image: url('../img/landing1.jpg'); /* Replace with your image URL */
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
