@@ -1,0 +1,7 @@
+User-agent: *
+Disallow: /admin/
+Disallow: /mandarin/
+Disallow: /private/
+Disallow: /tmp/
+
+Sitemap: https://deerpathcustombuilders.com/sitemap.xml
